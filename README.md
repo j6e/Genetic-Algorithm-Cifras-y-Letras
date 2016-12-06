@@ -4,8 +4,8 @@ Version 0.2
 #How to run
 Python 3.4+ required
 ```
-usage: AlgoGenCifras.py [-h] [--verbose]
-                        [NUMBERS] [OBJECTIVE] [POPULATION] [GENERATIONS]
+usage: cifrasyletrasGA.py [-h] [--verbose]
+                          [NUMBERS] [OBJECTIVE] [POPULATION] [GENERATIONS]
 Cifras y Letras GA.
 
 positional arguments:

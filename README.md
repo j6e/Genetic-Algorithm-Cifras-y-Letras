@@ -1,6 +1,5 @@
 # Cifras y Letras - Genetic Algorithm
-
-#Version 0.2
+Version 0.2
 
 #How to run
 Python 3.4+ required
